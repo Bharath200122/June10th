@@ -1,0 +1,127 @@
+1] a)31
+2] c)20
+3] a)100
+4] c)63
+5] a)9
+6] b)K
+7] a)P
+8] b)FR
+9] c)bccab
+10] a)GOV
+11] 2
+12] 38
+13] WINDOW
+14] Sun
+15] BE
+
+
+Java Test
+
+1] It is a object oriented programing language ,it is platform independent ,it generate the byte code with the help of that we can run the code in any platform
+    founded by james gosly
+   javac is used to compile the java programing it is present in the java bin.
+  
+2] In JDK we write the program,it is a platform dependent
+   In JRE we execute the program,provide environment to run the program,it is also a platform dependent
+   In JVM we execute actual program, it is also a platform dependent
+
+3] we can'nt increase the size of array it is fixed
+
+4] class : class is a bluePrint of object or it is used to design the object
+   Object : It is real world entity,,Inside of class we can store the static or non static and we write the main function
+   Signature of class : It contains access specifier ,class and object.
+ 
+5] Array are used to store the all the variable_name with the help of this we can execute the n number of variables are stored in single variable when we print all message what are stored in the array variable that are execute.
+	
+6]  user write or type the programing that is .java
+	with the help of compiler we are convert the .java into byte code or .class it is a platform independent with the help this we can run the code in any platform
+	
+	inside of java ,jdk and jre and jvm are present 
+	jdk and jre and jvm all are platform dependent 
+	Only byte code is platform independent
+	
+	java is a platform independent once byte is generated ,with the help of byte code we can run the program in any platform
+ 
+
+7] 5
+
+8] public static void main(String[] args){}
+	
+	public is the access specifier 
+	static is the non access specifier
+	void is the return type
+	main is the name of the method
+	() parenthesis 
+	inside of parenthesis we are write the parameters
+	
+9] it is a object oriented programing language ,it is platform independent ,it generate the byte code 
+    founded by james gosly
+	
+10] variable is nothing but when the user want to store the values he is assign the values into the variable
+    for example String name = "bharath"
+	here name is the variable and bharath is value
+	
+	global instance and local
+	local variable are present inside of the main function(public static void main(String[] args){}
+	instance variables are present inside of class above the main function.
+	global variables are present in the outside of the class body.
+	
+11]	class variable is also called as static variable,it is a non access specifier.
+
+12] with the help dataType only we can store the values into the variable
+	short,long,byte,int,double,float,char,boolean.
+	
+13] java is a platform independent once the user writed code with the help of 
+	inside of java jdk and jre and jvm are present 
+	jdk and jre and jvm all are platform dependent 
+	Only byte code is platform independent
+	
+	java is a platform independent once byte is generated ,with the help of byte code we can run the program in any platform
+ 
+14] int[] is used to numbers example 1,2,3 only 4 bytes
+	short[] is also used to number upto 2 bytes
+	long[] is used in numbers upto 8 bytes
+	byte[] is used to numbers upto 2 bytes
+	
+	String[] is used for any statement
+	
+	float[] is used in decimal number upto 4 bytes
+	double[] is used in decimal number upto 8 bytes
+	
+	boolean[] is used to check the statement or condition is true or flase 
+	
+15]	once we are stored the variable inside of the the array variable 
+	we can easily call the particular values with the help of variable_name[index vales]
+	int name = Name[0];
+	
+16] System is predefined class
+	. means we can access the member from the other class
+	out means variable object
+	println means main 
+	
+17] example 9 == 9 
+	it is comparing weather 9 is equal to 9 here 9 is equal to 9 it is correct.
+	 
+	 9 == 8
+	 its is comparing weather the 9 is equal to 8 here 9 is not equal to 8 so it is wrong.
+	 
+18] with the help of dot operator we can access the member from the another class
+
+19] object
+
+20] switch
+	for 
+	char
+	class
+	break
+	if
+	else
+	void 
+	return
+	static
+	public
+	
+	
+
+	
+  
